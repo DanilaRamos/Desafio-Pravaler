@@ -1,15 +1,4 @@
 import { Link } from "react-router-dom";
-
-const PaginaInicial = ()=>{
-    return (
-        <div>
-            <h1>Pravaler</h1>
-            <Link to="/comparador">Quero comparar</Link>
-        </div>
-    )
-}
-
-import { Link } from "react-router-dom";
 import { Header } from "../../Componentes/Header/header";
 import estudante from "../../Imagens/estudante.png";
 import vantagens from "../../Imagens/vantagens.png";

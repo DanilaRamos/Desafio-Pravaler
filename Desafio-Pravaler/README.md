@@ -49,7 +49,8 @@ o comparador de cursos e encorajá-lo a usar.
 Você pode usar como exemplo a página inicial do nosso site (www.pravaler.com.br), com
 informações do Pravaler.
 
-<!-- IMAGEM -->
+![imagem1](https://github.com/DanilaRamos/Desafio-Pravaler/assets/104326333/859f32f1-93e4-4095-8d21-39eccf72f6af)
+
 
 ## Tela comparador de curso:
 
@@ -79,7 +80,8 @@ Ao clicar no botão “quero este”, o aluno deve ser direcionado para uma pág
 onde conterá infomações do curso selecionado e um formulário para o preenchimento dos
 dados pessoais: nome, email, telefone, endereço.
 
-<!-- imagem -->
+![imagem3](https://github.com/DanilaRamos/Desafio-Pravaler/assets/104326333/0a1b60fc-5db7-440b-aa05-52913f7b4c98)
+
 
 ***
 
@@ -89,21 +91,15 @@ O complemento do seu desafio será fazer com que quando um aluno clicar no botã
 esse” direcione ele para uma página de cadastro e crie um mecanismo para armazenar os
 dados pessoais.
 
-<img src= "src/historias-usuarios.png" width = "800px" height = "600px"/> 
-
 ## PROTÓTIPO DE ALTA FIDELIDADE:
 
 Nesta interface, aplicamos o posicionamento de cada elemento, pigmentamos com a
 palheta de cores escolhida, desenhamos com alto grau de detalhamento, apresentamos
 visualmente a funcionalidade e reproduzimos fielmente o produto final em termos de design.
 
-<img src= "src/prototipo-alta1.png" width = "800px" height = "600px"/> 
-<img src= "src/prototipo-alta2.png" width = "800px" height = "600px"/>
-
-
-
+![imagem2](https://github.com/DanilaRamos/Desafio-Pravaler/assets/104326333/18af1f73-a261-4d58-b9b2-743299598994)
 
 ***
 
-#### 🧡 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: [DANILA RAMOS](https://github.com/DanilaRamos) 💛 & [TARCILA](https://github.com/VanessaNMenezes) 💚
-& [TARCILA](https://github.com/VanessaNMenezes) 💚 & [TARCILA](https://github.com/VanessaNMenezes) 💚
+#### 🧡 ESTE PROJETO FOI CRIADO E DESENVOLVIDO POR: 
+[ARIANE VIEIRA](https://github.com/VieiraAriane)  & [DANILA RAMOS](https://github.com/DanilaRamos)  & [TARCILA SCHULTZ](https://github.com/TataSchultz)  & [TALITA MARTINS](https://github.com/talitamsx) 💚
