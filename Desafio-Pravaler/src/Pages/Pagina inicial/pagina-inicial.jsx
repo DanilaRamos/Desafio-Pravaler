@@ -6,7 +6,6 @@ import vantagens from "../../Imagens/vantagens.png";
 import porquinho from "../../Imagens/porquinho.png";
 import "./pagina-inicial.css";
 
-
 const PaginaInicial = ()=>{
     return (
         <>
@@ -81,7 +80,6 @@ const PaginaInicial = ()=>{
             ✔ O Pravaler é para todos!</p>
             
         </div>
-      
         </section> 
             
          

@@ -7,7 +7,6 @@ import EstadoEscolhido from "../../Componentes/EstadoEscolhido";
 import { Link } from "react-router-dom";
 import { Header } from "../../Componentes/Header/header";
 
-
 const Comparador = () => {
   const { instituicao, campus, curso, estado } = ListarDados();
   const [instituicaoSelecionada, setInstituicaoSelecionada] = useState("");
@@ -57,7 +56,6 @@ const Comparador = () => {
         onChange={handleEstadoChange}
       />
       <Link to="/cadastro"> Quero esse!</Link>
-     
     </div>
     </>
   );
