@@ -53,11 +53,7 @@
     margin-top: 20px;
   }
   
-  button:hover {
-    background-color: #a661f6;
-  }
-
-.link-texto-quero {
+ .link-texto-quero {
     margin: 20%;
     color: #FFFFFF;
     text-decoration: none;   
